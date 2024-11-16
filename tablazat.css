@@ -86,6 +86,7 @@ main{
     margin-left: 150px;
     margin-top:10px;
     padding: 10px;
+    max-width: 100%;
 
 
 }
@@ -99,3 +100,8 @@ aside{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: hwb(182 10% 28%);
 }
+@media screen and (max-width: 800px) {
+    .left, .main, .right {
+      width: 100%;
+    }
+  }
