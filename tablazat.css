@@ -41,15 +41,6 @@ main{
     height: 550px;
     margin-left: 10px;
 }
-.embik{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: .2fr .2fr .1fr;
-    align-items: center;
-    border-style: inset;
-    border-color: beige;
-
-}
 .tablazat{
     height: 100px;
     display: grid;
