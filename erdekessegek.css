@@ -37,39 +37,11 @@ main{
     height: 550px;
     margin-left: 10px;
 }
-.embik{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: .2fr .2fr .1fr;
-    align-items: center;
-    border-style: inset;
-    border-color: beige;
-
-}
-.embik p{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 14px;
-    border-style: inset;
-    border-color: beige;
-    align-items: center;
-    text-align: center;
-    color: hwb(182 10% 28%);
-    margin-left: 10px;
-    margin-right: 10px;
-}
-.embik img{
-    width: 200px;
-    height: 250px;
-    border-style: inset;
-    border-color:beige;
-    padding: 10px;
-    margin-left: 15px;
-}
-
 .kepek{
     display: grid;
     grid-template-rows: 1fr 1fr 1fr 1fr;
     align-items: center;
+
 
 }
 .kepek img{
